@@ -1,7 +1,10 @@
 ### Hi there 👋
 🔭 I’m currently working on React Js
+
 🌱 I’m currently learning Web development
+
 📫 How to reach me: aniketsinha5552@gmail.com
+
 ⚡ Fun fact: I love playing football and esports
 
 <!--
