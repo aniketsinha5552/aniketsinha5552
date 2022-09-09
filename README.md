@@ -5,7 +5,7 @@
 
 📫 How to reach me: aniketsinha5552@gmail.com
 
-⚡ Fun fact: I love playing football and esports
+⚡ Fun fact: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 <!--
 **aniketsinha5552/aniketsinha5552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
