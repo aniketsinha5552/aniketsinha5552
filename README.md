@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on React Js
+🌱 I’m currently learning Web development
+📫 How to reach me: aniketsinha5552@gmail.com
+⚡ Fun fact: I love playing football and esports
 
 <!--
 **aniketsinha5552/aniketsinha5552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
