@@ -1,5 +1,5 @@
 ### Hi there, I'm Aniket👋
-🔭 I’m currently working on React Js
+🔭 I’m currently working on building web apps with React Js
 
 🌱 I’m currently learning Web development
 
