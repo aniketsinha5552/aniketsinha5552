@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aniketsinha5552](https://github.com/aniketsinha5552)
+- 👨‍💻 My Developer Portfolio [https://aniket-sinha-v2.netlify.app/](https://aniket-sinha-v2.netlify.app/)
 
 - 📫 How to reach me **aniketsinha5552@gmail.com**
 
