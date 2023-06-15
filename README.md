@@ -1,4 +1,6 @@
-![MasterHead](https://optimizedude.com/wp-content/uploads/2015/02/Cool-Twitter-Headers-5.jpg)
+
+![lo-fi-anime-your-name-cover-z5eiipis9zi8801z](https://github.com/aniketsinha5552/aniketsinha5552/assets/104712880/e4561587-2789-4b25-b533-4394ed20cfa0)
+
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
