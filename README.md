@@ -8,7 +8,7 @@
 
 - My works 🖥️: https://aniket-sinha-v2.netlify.app/
 
-- 🌱 I’m currently learning **Fll Stack Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsinha5552&show_icons=true&locale=en" alt="aniketsinha5552" /></p>
 
