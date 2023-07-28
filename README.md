@@ -5,6 +5,7 @@
 <h3 align="center">A passionate programmer who loves building things</h3>
 
 
+- 📽️ Looking to work on some interesting projects
 
 - 🌱 I’m currently learning **Full Stack Development**
   
