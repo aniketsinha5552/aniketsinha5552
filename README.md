@@ -13,15 +13,18 @@
 
 <div style={{margin:0}}>
 <h4>Tech:</h4>
-<span><img height=50 width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></span>
-<span><img height=50 width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/></span>
-<span><img height=50 width=50 src="https://www.svgrepo.com/show/374144/typescript.svg"/></span>
-<span><img height=50 width=50 src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/></span>
-<span><img height=50 width=50 src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/></span>
-<span><img height=50 width=50 src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"/></span>
-<span><img  height=50 width=50 src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png"/></span>
-<span><img height=50 width=80 src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></span>
-<span><img height=50 width=50 src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png"/></span>
+<span><img height=50 width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React"/></span>
+<span><img height=50 width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS"/></span>
+<span><img height=50 width=50 src="https://www.svgrepo.com/show/374144/typescript.svg" alt="TS"/></span>
+<span><img height=50 width=50 src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node"/></span>
+<span><img height=50 width=50 src="https://prepinsta.com/wp-content/uploads/2021/10/OOps-in-c-programming.webp" alt="C++"/></span>
+<span><img height=50 width=50 src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="MongoDb"/></span>
+<span><img  height=50 width=50 src="https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp" alt="C#"/></span>
+<span><img height=50 width=80 src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"/></span>
+<span><img height=50 width=50 src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" alt="Firebase"/></span>
+<span><img height=50 width=50 src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GoLang"/></span>
+  
+
   
 
 
