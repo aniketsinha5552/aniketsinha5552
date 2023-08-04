@@ -23,6 +23,7 @@
 <span><img height=50 width=50 src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL"/></span>
 <span><img height=50 width=50 src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" alt="Firebase"/></span>
 <span><img height=50 width=50 src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GoLang" text="Go"/></span>
+<span><img height=50 width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="GoLang" text="Laravel"/></span>
   
 
   
