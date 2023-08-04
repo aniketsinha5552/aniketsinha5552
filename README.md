@@ -22,7 +22,9 @@
 <span><img  height=50 width=50 src="https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp" alt="C#"/></span>
 <span><img height=50 width=50 src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL"/></span>
 <span><img height=50 width=50 src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" alt="Firebase"/></span>
-<span><img height=50 width=50 src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GoLang"/></span>
+<span><img height=50 width=50 src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GoLang" text="Go"/></span>
+  
+
   
 
   
