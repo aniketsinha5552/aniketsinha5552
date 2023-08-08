@@ -35,7 +35,7 @@
 </div>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsinha5552&show_icons=true&locale=en" alt="aniketsinha5552" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsinha5552&show_icons=true&locale=en" alt="aniketsinha5552" /></p> -->
 
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsinha5552&theme=dark&show_icons=true)
 
