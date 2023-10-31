@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
   
-- My works 🖥️: https://aniket-sinha-v2.netlify.app/
+- My works 🖥️: https://aniketsinha.life
 
 <div style={{margin:0}}>
 <h4>Tech:</h4>
