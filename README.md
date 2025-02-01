@@ -1,15 +1,4 @@
-
-![lo-fi-anime-your-name-cover-z5eiipis9zi8801z](https://github.com/aniketsinha5552/aniketsinha5552/assets/104712880/e4561587-2789-4b25-b533-4394ed20cfa0)
-
-<h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">A passionate programmer who loves building things</h3>
-
-
-- 📽️ Looking to work on some interesting projects
-
-- 🌱 I’m currently learning **Full Stack Development**
-  
-- My works 🖥️: https://aniketsinha.life
+## *Engineering scalable solutions for the future*
 
 #### *Programming Languages*
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
