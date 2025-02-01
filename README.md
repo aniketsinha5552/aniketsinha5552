@@ -11,7 +11,6 @@
 #### *Tools*
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Hacktoberfest 23
 [![An image of @aniketsinha5552's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketsinha5552)](https://holopin.io/@aniketsinha5552)
   
 
